@@ -103,4 +103,4 @@ modules:
           - com.github.qarmin.czkawka
           - io.ente.auth
 
-  - type: signinghe proper policy & signing files for signed images to work fully
+  - type: signing
